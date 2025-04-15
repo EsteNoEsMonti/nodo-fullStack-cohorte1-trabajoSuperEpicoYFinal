@@ -105,8 +105,4 @@ Ejemplos alternativos posibles:
 - Red social básica con perfiles personalizados  
 - App para administrar torneos deportivos
 
-
----
-![image](https://github.com/user-attachments/assets/82283059-7504-47a7-b025-e3b884fcd480)
-
-![image](https://github.com/user-attachments/assets/4ed9479c-28b9-4a9d-8c70-92a2e15b2bd7)
+✨ Que la fuerza los acompañe ✨
